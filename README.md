@@ -1,8 +1,6 @@
 ![](https://drive.google.com/uc?id=1MStOYYaZDqrvuOwlmecX0iayL0Jt_eAN)
 
-# VAST 4.3
-
-**December 2022**
+# VAST 4.X
 
 **About the IAB Technology Lab**
 
